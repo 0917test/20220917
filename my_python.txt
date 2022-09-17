@@ -1,3 +1,4 @@
+import if
 print"hello"
 a b c
 error
